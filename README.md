@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Westc13/Westc13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-### I am Chris, a web developer passionate about learning new technologies and delivering the optimal user experiences.
+I am Chris, a web developer passionate about learning new technologies and delivering the optimal user experiences.
 
 I knew nothing about web development before I joined Juno in April this year. Now look at how far I came along. To find out more about my journey and expanding skills, please check out my portfolio at https://chriswestcodewrangler.com.
 
@@ -19,6 +14,11 @@ While in Juno College of Technology learning web development, I discovered that 
   You can reach me by: 📫, :calendar:, :link:
   
 ⚡ Fun fact about me: I have two rescue dogs and I love spoiling them. I also love cheesy cinema (any movie franchise with sequel 3 or higher) and Friday nights are usually cheesy movie nights.
+
+<!--
+**Westc13/Westc13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
