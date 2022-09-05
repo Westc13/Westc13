@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-I am Chris, a web developer passionate about learning new technologies and delivering the optimal user experiences.
+### I am Chris, a web developer passionate about learning new technologies and delivering the optimal user experiences.
 
 I knew nothing about web development before I joined Juno in April this year. Now look at how far I came along. To find out more about my journey and expanding skills, please check out my portfolio at https://chriswestcodewrangler.com.
 
