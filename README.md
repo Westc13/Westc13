@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+
+            (https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg)
+            
+           
+          
+                
+          
+
 <!--I am Chris, a web developer passionate about learning new technologies and delivering the optimal user experiences.
 
 I knew nothing about web development before I joined Juno in April this year. Now look at how far I came along. To find out more about my journey and expanding skills, please check out my portfolio at https://chriswestcodewrangler.com.
