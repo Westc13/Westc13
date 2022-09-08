@@ -16,7 +16,7 @@ While in the Juno College of Technology learning web development, I discovered t
   
 You can reach me by: 📫, :calendar:, :link:
   
-⚡ Fun fact about me: I have two rescue dogs and I love spoiling them. I also love to have a cheesy cinema night on Friday’s at least once per month.
+⚡ Fun fact about me: I have two rescue dogs and I love spoiling them. I also love to have a cheesy cinema night on Fridays at least once per month.
 
 
 
