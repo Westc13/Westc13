@@ -14,7 +14,7 @@ While in the Juno College of Technology learning web development, I discovered t
 
 :page_with_curl: My resume can be found here.
   
-You can reach me by: [📫](christinewwwest@gmail.com), :calendar:(https://calendly.com/event_types/user/me)
+You can reach me by: [📫](christinewwwest@gmail.com), [:calendar:](https://calendly.com/event_types/user/me)
   
 ⚡ Fun fact about me: I have two rescue dogs and I love spoiling them. I also love to have a cheesy cinema night on Fridays at least once per month.
 
