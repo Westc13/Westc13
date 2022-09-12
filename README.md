@@ -12,9 +12,9 @@ While in the Juno College of Technology learning web development, I discovered t
 
 🌱 I’m currently expanding my skills in React, Angular and Vue, as well as dabbling in some back-end skills (Python, Mongo).
 
-:page_with_curl: My resume can be found here.
+:page_with_curl: My resume can be found [here](https://github.com/Westc13/Westc13/blob/main/chris-west-resume-nli.pdf).
   
-You can reach me by: [📫](mailto:christinewwwest@gmail.com), [:calendar:](https://calendly.com/event_types/user/me)
+You can reach me by: [📫](mailto:christinewwwest@gmail.com), [:calendar:](https://calendly.com/event_types/user/me).
   
 ⚡ Fun fact about me: I have two rescue dogs and I love spoiling them. I also love to have a cheesy cinema night on Fridays at least once per month.
 
