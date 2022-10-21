@@ -8,9 +8,9 @@ I knew nothing about web development before I joined Juno in April of this year.
 
 While in the Juno College of Technology learning web development, I discovered that I excelled in pair programming and group projects. Not only are my end products stellar, but the experience itself, whether it be working in pairs or in groups, was stimulating and fun filled, even with all the challenges along the way.
 
-🔭 I’m currently working with several of my Juno classmates on a few projects that are in high demand from the industry, such as an e-commerce web application, a simulation of the Instagram site and more...
+🔭 I’m currently working on a few projects that are in high demand from the industry, such as an e-commerce web application, a simulation of the Instagram site and more...
 
-🌱 I’m currently expanding my skills in React, Angular and Vue, as well as dabbling in some back-end skills (Python, Mongo).
+🌱 I’m currently expanding my skills in React, Angular and Vue, as well as dabbling in some back-end skills (Python, PHP, SQL).
 
 :page_with_curl: My resume can be found [here](https://github.com/Westc13/Westc13/blob/main/chris-west-resume-nli.pdf).
   
