@@ -7,7 +7,7 @@ I am Chris, a web developer passionate about learning new technologies and deliv
   <img height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> <img height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
           
   
-I knew nothing about web development before I joined Juno in April of this year. Now look at how far I have come. To find out more about my journey and expanding skills, please check out my portfolio at https://chriswestcodewrangler.com.
+I love programming, always have ever since my first computer class when I was 11 years old. Despite of having a full time professioinal career after my first university degree, moving to a new country, getting my second university degree, and taking on another full time professional career, learning to code has always been my favorite pastime. I self taught for a while then I joined a bootcamp (Juno College of Technology). To find out more about my journey and expanding skills, please check out my portfolio at https://chriswestcodewrangler.com.
 
 While in the Juno College of Technology learning web development, I discovered that I excelled in pair programming and group projects. Not only are my end products stellar, but the experience itself, whether it be working in pairs or in groups, was stimulating and fun filled, even with all the challenges along the way.
 
