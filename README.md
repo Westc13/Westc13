@@ -1,5 +1,5 @@
-### Hi there 👋
-I am Chris, a web developer passionate about learning new technologies and delivering the optimal user experiences.
+### What's up, fellow code jockeys? 👋
+Welcome to my GitHub page, where I showcase my badass coding skills and my devil-may-care attitude.
 ## A Web Developer
 
  <img height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> <img height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> <img height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />       <img height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> <img height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /> <img height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /> <img height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> <img height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -7,13 +7,11 @@ I am Chris, a web developer passionate about learning new technologies and deliv
   <img height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> <img height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
           
   
-I love programming, always have ever since my first computer class when I was 11 years old. Despite of having a full time professioinal career after my first university degree, moving to a new country, getting my second university degree, and taking on another full time professional career, learning to code has always been my favorite pastime. I self taught for a while then I joined a bootcamp (Juno College of Technology). To find out more about my journey and expanding skills, please check out my portfolio at https://chriswestcodewrangler.com.
-
-While in the Juno College of Technology learning web development, I discovered that I excelled in pair programming and group projects. Not only are my end products stellar, but the experience itself, whether it be working in pairs or in groups, was stimulating and fun filled, even with all the challenges along the way.
-
-🔭 I’m currently working on a few projects that are in high demand from the industry, such as an e-commerce web application, a simulation of the Instagram site and more...
-
-🌱 I’m currently expanding my skills in React, Angular and Vue, as well as dabbling in some back-end skills (Python, PHP, SQL).
+Let me give you the lowdown on who I am. I'm a total code ninja, with mad skills that would make even the most seasoned devs tremble in their boots. I eat complex coding challenges for breakfast, and wash it down with a shot of whiskey (don't try that at home, kids).
+But don't let my tough exterior fool you. I'm also a Renaissance man of sorts, with interests ranging from hiking and solving Rubik's Cubes to creative writing and playing the piano. And, oh yeah, I'm a published researcher in the Canadian Journal of Gastroenterology. Bet you didn't see that coming, did you?
+As a developer, I'm a jack of all trades, master of some. I can code in Python, JavaScript/TypeScript, SQL, React, and a host of other languages that mere mortals wouldn't even dare to touch. I'm also a Github/Git wizard, and I'm always on the lookout for the latest tech trends to stay ahead of the curve.
+But beyond my technical skills, what really sets me apart is my kick-ass attitude and high EQ. I believe in building strong relationships with my teammates, and I'm not afraid to take charge when the going gets tough. I'm a team player, but I also know how to rock the solo game like a boss.
+So if you're looking for a badass developer who can slay the coding game and shoot the breeze about the latest heavy metal album, hit me up. Let's rock this thing.
 
 :page_with_curl: My resume can be found [here](https://github.com/Westc13/Westc13/blob/main/chris-west-resume-nli.pdf).
   
