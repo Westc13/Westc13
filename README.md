@@ -21,7 +21,7 @@ You can reach me by: [📫](mailto:christinewwwest@gmail.com), [:calendar:](http
   
 ⚡ Fun fact about me: I have two rescue dogs and I love spoiling them. I also love to have a cheesy cinema night on Fridays at least once per month.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Westc13&show_icons=true&theme=cobalt)](https://github.com/Westc13/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Westc13&show_icons=true&theme=radical)](https://github.com/Westc13/github-readme-stats)
 
 <!--
 **Westc13/Westc13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
