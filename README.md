@@ -121,10 +121,32 @@ https://user-images.githubusercontent.com/102431119/193353016-a4313b49-e7b4-4d33
 
 <br>
 -->
-<h2 align="center">Streak Stats</h2>
-<p align="center">
+<h2 align="center">GitHub Stats</h2>
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 50%; border: 0;">
+      <h3 align="center">Streak</h3>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=westc13&theme=highcontrast" alt="westc13" style="margin: 0 auto; display: block;">
+    </td>
+    <td style="width: 50%; border: 0;">
+      <h3 align="center">Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=Westc13&show_icons=true&theme=tokyonight" alt="westc13" style="margin: 0 auto; display: block;">
+    </td>
+  </tr>
+</table>
+
+
+<!-- 
+<h3 align="left">Streak</h3>
+<p align="left">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=westc13&theme=highcontrast" alt="westc13" />
 </p>
+<h3 align="right">Stats</h2>
+
+<p align="right">  
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Westc13&show_icons=true&theme=tokyonight">
+</p> -->
+
 
 
 <br>
@@ -212,8 +234,6 @@ So if you're looking for a badass developer who can slay the coding game and sho
   
   
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Westc13&show_icons=true&theme=tokyonight)](https://github.com/Westc13/github-readme-stats)
 
 
 
