@@ -208,6 +208,7 @@ https://user-images.githubusercontent.com/102431119/193353016-a4313b49-e7b4-4d33
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Amplify](https://img.shields.io/badge/Amplify-%233B7BBF.svg?style=for-the-badge&logo=AWS-Amplify&logoColor=white)
 ![Lambda](https://img.shields.io/badge/Lambda-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-%23FF9900.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 </p>
 
 <br>
