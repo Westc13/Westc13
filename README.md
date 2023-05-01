@@ -181,10 +181,10 @@ https://user-images.githubusercontent.com/102431119/193353016-a4313b49-e7b4-4d33
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VisualStudioCode](https://img.shields.io/badge/vscode-1f425f?logo=visualstudiocode&logoColor=0078d4&style=for-the-badge)
 ![Contentful](https://img.shields.io/badge/Contentful-%23347AB0.svg?style=for-the-badge&logo=contentful&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
 <!--![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) -->
 <!-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)-->
-<!-- ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase
-&logoColor=white) -->
+
 
 
 <h3>Deployment Platforms</h3>
@@ -210,6 +210,8 @@ https://user-images.githubusercontent.com/102431119/193353016-a4313b49-e7b4-4d33
 ![Amplify](https://img.shields.io/badge/Amplify-%233B7BBF.svg?style=for-the-badge&logo=AWS-Amplify&logoColor=white)
 ![Lambda](https://img.shields.io/badge/Lambda-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-%23FF9900.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+![LaTex](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
 </p>
 
 <br>
