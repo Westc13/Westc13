@@ -153,7 +153,7 @@ https://user-images.githubusercontent.com/102431119/193353016-a4313b49-e7b4-4d33
 
 <h2 align="center">Technical Skills</h2>
 <p align="center">
-<h3>Core</h3>
+<h3>Working Experience</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -161,7 +161,7 @@ https://user-images.githubusercontent.com/102431119/193353016-a4313b49-e7b4-4d33
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
 
-<h3>Frameworks / Libraries</h3>
+<!-- <h3>Frameworks / Libraries</h3> -->
 
 ![SASS](https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -173,7 +173,7 @@ https://user-images.githubusercontent.com/102431119/193353016-a4313b49-e7b4-4d33
 <!-- ![TypeScript](https://img.shields.io/badge/typescript-272b33?logo=typescript&logoColor=0374c2&style=for-the-badge) -->
 <!--![BOOTSTRAP](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) -->
 
-<h3>Databases / Tools</h3>
+<!-- <h3>Databases / Tools</h3> -->
 
 ![PostGreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
@@ -187,7 +187,7 @@ https://user-images.githubusercontent.com/102431119/193353016-a4313b49-e7b4-4d33
 
 
 
-<h3>Deployment Platforms</h3>
+<!-- <h3>Deployment Platforms</h3> -->
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
