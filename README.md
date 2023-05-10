@@ -127,7 +127,7 @@ https://user-images.githubusercontent.com/102431119/193353016-a4313b49-e7b4-4d33
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Westc13&layout=donut" />
   </p>
    <p>
-  <img alt="LeetCode" src="https://leetcard.jacoblin.cool/broadsword95?border=0&hide=ranking" />
+  <img alt="LeetCode" src="https://leetcard.jacoblin.cool/Westc13?border=0&hide=ranking" />
   </p>
 </section>
 
