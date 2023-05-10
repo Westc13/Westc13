@@ -4,7 +4,7 @@
   <a target="_blank" href="https://www.chriswestcodewrangler.com/">
     <img src="https://img.shields.io/badge/Website-243964?style=for-the-badge&logo=react&logoColor=white">
   </a>
-<a target="_blank" href="https://github.com/Westc13/cv/blob/main/cw-resume-jv1.pdf">
+<a target="_blank" href="https://westc13.github.io/cv/cw-resume-jv1.pdf">
     <img src="https://img.shields.io/badge/Resume-3B732C?style=for-the-badge&logo=react&logoColor=white">
   </a>
   <a target="_blank" href="mailto:christinewwwest@gmail.com">
