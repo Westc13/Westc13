@@ -121,7 +121,7 @@ https://user-images.githubusercontent.com/102431119/193353016-a4313b49-e7b4-4d33
 
 <br>
 -->
-<section align="center">
+<!-- <section align="center">
 <h2>📈 Activity 📈</h2>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Westc13&layout=donut" />
@@ -132,6 +132,7 @@ https://user-images.githubusercontent.com/102431119/193353016-a4313b49-e7b4-4d33
 </section>
 
 <br/>
+-->
 
 <h2 align="center">GitHub Stats</h2>
 <table style="width: 100%;">
