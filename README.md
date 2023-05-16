@@ -20,20 +20,22 @@
       <img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black"/>
   </a> -->
 </p>
+<br>
+<br>
 <h2 align="center">Chris West: Software Engineer by trade, Chief Shenanigan Officer by fate!</h2>
-<h3 align="center">My pride and joy</h3>
-
-
+<h2 align="center">My pride and joy</h2>
 <div align="center">
-    <img src="MooseSnoot.JPG" alt="Moosey Snoot" height="300px" />
-    <img src="Fam.JPG" alt="Me and the fam" height="300px" />
-    <img src="Moose.JPG" alt="Moosey" height="300px" />
+    <img src="20150725_085247-1.jpg" alt="king c" width="300px" height="300px" />
+    <img src="West-27.jpg" alt="christmas gifts" width="300px" height="300px" />
+    <img src="a_087.JPG" alt="king a" width="300px" height="300px" />
 </div>
-<h3 align="center">My checked past</h3>
+<br>
+<br>
+<h2 align="center">My checkered past</h2>
 <div align="center">
-    <img src="MooseSnoot.JPG" alt="Moosey Snoot" height="300px" />
-    <img src="Fam.JPG" alt="Me and the fam" height="300px" />
-    <img src="Moose.JPG" alt="Moosey" height="300px" />
+    <img src="we-can-do-it-smaller.JPG" alt="we can do it" width="300px" height="300px" />
+    <img src="IMG_0091.jpg" alt="Klingon prison mugshot" width="300px" height="300px" />
+    <img src="Screenshot_20230214_105253.png" alt="space cadet" width="300px" height="300px" />
 </div>
 
 
