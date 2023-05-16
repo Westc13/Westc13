@@ -20,16 +20,36 @@
       <img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black"/>
   </a> -->
 </p>
+<h2 align="center">Chris West: Software Engineer by trade, Chief Shenanigan Officer by fate!</h2>
+<h3 align="center">My pride and joy</h3>
 
-- 🔭 I’m currently open for hire, ideal role: coding 🧙‍♀️.
+
+<div align="center">
+    <img src="MooseSnoot.JPG" alt="Moosey Snoot" height="300px" />
+    <img src="Fam.JPG" alt="Me and the fam" height="300px" />
+    <img src="Moose.JPG" alt="Moosey" height="300px" />
+</div>
+<h3 align="center">My checked past</h3>
+<div align="center">
+    <img src="MooseSnoot.JPG" alt="Moosey Snoot" height="300px" />
+    <img src="Fam.JPG" alt="Me and the fam" height="300px" />
+    <img src="Moose.JPG" alt="Moosey" height="300px" />
+</div>
+
+
+
+
+
+
+<!-- - 🔭 I’m currently open for hire, ideal role: coding 🧙‍♀️.
 
 - 🌎 I am fluent in <img height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> <img height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> <img height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> <img height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> <img height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> <img height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /> <img height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /> <img height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-
+-->
 <!-- More Skills Icons To Be Added
 <img height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />               
 <img height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> 
 -->
-
+<!--
 - 🏗️ My main projects are available at [chriswestcodewrangler.com](https://www.chriswestcodewrangler.com/).
 
 - 🌱 I am working on AWS certifications.
@@ -38,7 +58,7 @@
 
 - ⚡ Fun fact about me: I have two rescue 🐶 and I love spoiling them. I am an amateur 🍫 maker. I am also learning Klingon 🖖.
 
-
+-->
 <br>
 
 <h2 align="center">Introducing: The "Coming Soon... Maybe" Projects!</h2>
