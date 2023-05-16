@@ -41,7 +41,29 @@
 
 <br>
 
-<h2 align="center">Proudest Projects</h2>
+<h2 align="center">Introducing: The "Coming Soon... Maybe" Projects!</h2>
+
+## Step right up and behold the wonders of my **Proudest Projects** section! Well, not quite yet... You see, the highly anticipated video demos are not quite ready for their grand debut. But fear not, dear visitors, for you can still browse through my masterpieces if you have a vivid imagination!
+
+To your right, I present a collection of projects that are caught in the thrilling limbo between "coming soon" and "maybe." Picture it as a whimsical carousel ride of suspense and laughter!
+
+To your left, you can see some of the most groundbreaking applications that are going to make me the next Bill/Steve/Jeff/Elon/Zach....
+
+Stay tuned as I work tirelessly behind the scenes to capture these projects in all their glory. In the meantime, enjoy this comical interlude, where the promise of greatness mingles with the joy of delayed gratification.
+
+Remember, good things come to those who wait (and maybe bug the developer with funny cat GIFs). So, keep your eyes peeled for the eventual reveal of my proudest projects, complete with those epic video demos we're all eagerly waiting for.
+
+Thank you for your patience, your sense of humor, and for joining me on this amusing adventure of delayed showcases. Together, we'll revel in the anticipation and embrace the laughter along the way!
+
+
+<!-- <h2 align="center">Proudest Projects</h2>
+- I deeply regret my words of choice: Proudest Projects. 
+- Taking to heart that if you launch your project when you fill it's perfect, then you launch it too late. However I didn't know there is another famous saying in software engineering: later means never!
+- Feel free to browse my repos as I have many projects.
+- Once I pick out the projects I want to display here, I will name them: Okayest Projects.
+- Stay tuned
+-->
+
 <!-- <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top">
