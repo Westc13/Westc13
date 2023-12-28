@@ -80,7 +80,7 @@
 <br>
 <br>
 
-<h2 align="center">Introducing: The "Coming Soon... Maybe" Projects!</h2>
+<!--[<h2 align="center">Introducing: The "Coming Soon... Maybe" Projects!</h2>
 
 ## Step right up and behold the wonders of my **Proudest Projects** section! Well, not quite yet... You see, the highly anticipated video demos are not quite ready for their grand debut. But fear not, dear visitors, for you can still browse through my masterpieces if you have a vivid imagination!
 
@@ -92,7 +92,8 @@ Stay tuned as I work tirelessly behind the scenes to capture these projects in a
 
 Remember, good things come to those who wait (and maybe bug the developer with funny cat GIFs). So, keep your eyes peeled for the eventual reveal of my proudest projects, complete with those epic video demos we're all eagerly waiting for.
 
-Thank you for your patience, your sense of humor, and for joining me on this amusing adventure of delayed showcases. Together, we'll revel in the anticipation and embrace the laughter along the way!
+Thank you for your patience, your sense of humor, and for joining me on this amusing adventure of delayed showcases. Together, we'll revel in the anticipation and embrace the laughter along the way!](url) 
+-->
 
 
 <!-- <h2 align="center">Proudest Projects</h2>
