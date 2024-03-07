@@ -276,7 +276,7 @@ https://user-images.githubusercontent.com/102431119/193353016-a4313b49-e7b4-4d33
     [JSON](https://img.shields.io/badge/JSON-272b33?logo=JSON&logoColor=lightgrey&style=for-the-badge)
     ![NPM](https://img.shields.io/badge/npm-272b33?logo=npm&logoColor=cb3837&style=for-the-badge) -->
 
-<h3>Exposure</h3>
+<!-- <h3>Exposure</h3>
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
@@ -284,7 +284,7 @@ https://user-images.githubusercontent.com/102431119/193353016-a4313b49-e7b4-4d33
 ![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Lambda](https://img.shields.io/badge/Lambda-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-%23FF9900.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
-![LaTex](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![LaTex](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) >
 <!-- ![Amplify](https://img.shields.io/badge/Amplify-%233B7BBF.svg?style=for-the-badge&logo=AWS-Amplify&logoColor=white) >
 
 </p>
