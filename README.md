@@ -39,7 +39,7 @@
 </div>
 <br>
 <br>
-<h2 align="center">My checkered past</h2>
+<h2 align="center">My Recent Accomplishments</h2>
 <div align="center">
   <table>
     <td width="30%">
