@@ -42,15 +42,15 @@
 <h2 align="center">My Recent Accomplishments</h2>
 <div align="center">
   <table>
-    <td width="30%">
-      <img src="we-can-do-it-smaller.JPG" alt="we can do it" width="300px" height="300px" />
+    <td width="50%">
+      <img src="aws-certified-solutions-architect-associate" alt="aws solutions architect certificate" width="300px" height="300px" />
     </td>
-    <td width="30%">
-      <img src="IMG_0091.jpg" alt="Klingon prison mugshot" width="300px" height="300px" />
+    <td width="50%">
+      <img src="google-cybersecurity-certificate" alt="google cybersecurity certificate" width="300px" height="300px" />
     </td>
-    <td width="30%">
+   [ <td width="30%">
       <img src="Screenshot_20230214_105253.png" alt="space cadet" width="300px" height="300px" />
-    </td>
+    </td>](url)
   </table>
 </div>
 
