@@ -48,9 +48,6 @@
     <td width="50%">
       <img src="google-cybersecurity-certificate.png" alt="google cybersecurity certificate" width="300px" height="300px" />
     </td>
-   [ <td width="30%">
-      <img src="Screenshot_20230214_105253.png" alt="space cadet" width="300px" height="300px" />
-    </td>](url)
   </table>
 </div>
 
