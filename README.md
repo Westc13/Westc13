@@ -209,7 +209,7 @@ https://user-images.githubusercontent.com/102431119/193353016-a4313b49-e7b4-4d33
 
 
  
-<h3 align="left">Streak</h3>
+<!-- <h3 align="left">Streak</h3>
 <p align="left">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=westc13&theme=highcontrast" alt="westc13" />
 </p>
@@ -218,6 +218,7 @@ https://user-images.githubusercontent.com/102431119/193353016-a4313b49-e7b4-4d33
 <p align="right">  
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Westc13&show_icons=true&theme=tokyonight">
 </p>
+-->
 
 
 
