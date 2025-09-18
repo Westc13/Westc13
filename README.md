@@ -193,7 +193,7 @@ https://user-images.githubusercontent.com/102431119/193353016-a4313b49-e7b4-4d33
 <br/>
 -->
 
-<h2 align="center">GitHub Stats</h2>
+<!-- <h2 align="center">GitHub Stats</h2>
 <table style="width: 100%;">
   <tr>
     <td style="width: 50%; border: 0;">
@@ -206,6 +206,7 @@ https://user-images.githubusercontent.com/102431119/193353016-a4313b49-e7b4-4d33
     </td>
   </tr>
 </table>
+-->
 
 
  
