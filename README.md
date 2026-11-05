@@ -43,7 +43,7 @@
 <div align="center">
   <table>
     <td width="50%">
-      <img src="aws-certified-solutions-architect-associate.png" alt="aws solutions architect certificate" width="300px" height="300px" />
+      <!-- <img src="aws-certified-solutions-architect-associate.png" alt="aws solutions architect certificate" width="300px" height="300px" /> -->
     </td>
     <td width="50%">
       <img src="google-cybersecurity-certificate.png" alt="google cybersecurity certificate" width="300px" height="300px" />
